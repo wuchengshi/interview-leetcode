@@ -83,7 +83,7 @@ $ grep [-acinv] [--color=auto] 搜寻字符串 filename
 
 * ps -l 查看自己的进程
 * ps aux 查看系统所有进程
-* pstree 查看进程数
+* pstree 查看进程树
 
 ## 查看子进程的命令
 
